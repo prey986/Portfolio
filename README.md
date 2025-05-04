@@ -16,4 +16,4 @@ https://prey986.github.io/Portfolio/
 - About Section  
 - Skills & Projects  
 - Certifications  
-- Contact Links on Navbar
+- Contact Links on Footer
