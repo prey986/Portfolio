@@ -11,10 +11,20 @@ const App = () => {
     return (
         <>
             <Navbar />
-            <About />
-            <Projects />
-            <Skills />
-            <Certification />
+            <main>
+                <section id='about'>
+                    <About />
+                </section>
+                <section id='Projects'>
+                    <Projects />
+                </section>
+                <section id='skills'>
+                    <Skills />
+                </section>
+                <section id='Certification'>
+                    <Certification />
+                </section>
+            </main>
             <Footer />
         </>
     )
